@@ -150,3 +150,5 @@ Unreal_Game_KMJ/Plugins/*/Intermediate/*
 # Cache files for the editor to use
 Unreal_Game_KMJ/DerivedDataCache/*
 
+/Unreal_Game_KMJ/Content/__ExternalActors__/Untitled
+/Unreal_Game_KMJ/Content
