@@ -7,7 +7,10 @@
 		{
 			"Name": "Unreal_Game_KMJ",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
