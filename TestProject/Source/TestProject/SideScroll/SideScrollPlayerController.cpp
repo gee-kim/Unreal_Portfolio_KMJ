@@ -3,3 +3,8 @@
 
 #include "SideScroll/SideScrollPlayerController.h"
 
+void ASideScrollPlayerController::SetupInputComponent()
+{
+	//Super::SetupInputComponent();
+
+}
