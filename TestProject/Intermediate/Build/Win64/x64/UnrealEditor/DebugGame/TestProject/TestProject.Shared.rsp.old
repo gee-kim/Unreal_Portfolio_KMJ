@@ -257,6 +257,7 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
 /I "D:\Unreal_Portfolio_KMJ\TestProject\Intermediate\Build\Win64\UnrealEditor\Inc\TestProject\UHT"
+/I "D:\Unreal_Portfolio_KMJ\TestProject\Source\TestProject"
 /I "D:\Unreal_Portfolio_KMJ\TestProject\Source"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"

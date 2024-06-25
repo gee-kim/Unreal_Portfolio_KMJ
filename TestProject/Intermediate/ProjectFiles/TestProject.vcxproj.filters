@@ -54,6 +54,27 @@
     <ClInclude Include="..\..\Source\TestProject\TestProjectGameMode.h">
       <Filter>Source\TestProject</Filter>
     </ClInclude>
+    <Filter Include="Source\TestProject\Global">
+      <UniqueIdentifier>{D2FF016C-34D8-381F-901B-43BBC5CC40B8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TestProject\Global\GlobalAnimInstance.cpp">
+      <Filter>Source\TestProject\Global</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\Global\GlobalAnimInstance.h">
+      <Filter>Source\TestProject\Global</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\Global\GlobalCharacter.cpp">
+      <Filter>Source\TestProject\Global</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\Global\GlobalCharacter.h">
+      <Filter>Source\TestProject\Global</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\Global\MyEnum.cpp">
+      <Filter>Source\TestProject\Global</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\Global\MyEnum.h">
+      <Filter>Source\TestProject\Global</Filter>
+    </ClInclude>
     <Filter Include="Source\TestProject\SideScroll">
       <UniqueIdentifier>{6D9DBB4E-5512-3D7F-8600-053562E342B0}</UniqueIdentifier>
     </Filter>
@@ -89,6 +110,36 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\TestProject\TestLevel\TestLevelPawn.h">
       <Filter>Source\TestProject\TestLevel</Filter>
+    </ClInclude>
+    <Filter Include="Source\TestProject\TPS">
+      <UniqueIdentifier>{11D0DA59-ECAF-36FD-9075-C04075685B21}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TestProject\TPS\TPSGameMode.cpp">
+      <Filter>Source\TestProject\TPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\TPS\TPSGameMode.h">
+      <Filter>Source\TestProject\TPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\TPS\TPSPlayCharacter.cpp">
+      <Filter>Source\TestProject\TPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\TPS\TPSPlayCharacter.h">
+      <Filter>Source\TestProject\TPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\TPS\TPSPlayerController.cpp">
+      <Filter>Source\TestProject\TPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\TPS\TPSPlayerController.h">
+      <Filter>Source\TestProject\TPS</Filter>
+    </ClInclude>
+    <Filter Include="Source\TestProject\TPS\AI">
+      <UniqueIdentifier>{32B4F1DE-CF14-30F4-B27F-25A187832DC6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TestProject\TPS\AI\BTTaskNode_Idle.cpp">
+      <Filter>Source\TestProject\TPS\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\TPS\AI\BTTaskNode_Idle.h">
+      <Filter>Source\TestProject\TPS\AI</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
