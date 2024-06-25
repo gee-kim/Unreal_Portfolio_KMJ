@@ -7,16 +7,42 @@
 #include "MyEnum.generated.h"
 
 UENUM(BlueprintType)
-enum class TPSPlayerAnim : uint8
+enum class ETPSPlayerAnim : uint8
 {
-	Idle,
-	Run,
-	Attack,
+	Idle UMETA(DisplayName = "서있기"),
+	Run UMETA(DisplayName = "달리기"),
+	Attack UMETA(DisplayName = "공격"),
+};
+
+UENUM(BlueprintType)
+enum class ETPSObjectType : uint8
+{
+	Player,
+	Monster,
+	Max,
+};
+
+UENUM(BlueprintType)
+enum class ETPSCharacterSlot : uint8
+{
+	LWeapon,
+	RWeapon,
+	SlotMax,
+};
+
+UENUM(BlueprintType)
+enum class ETPSMonsterState : uint8
+{
+	Idle UMETA(DisplayName = "서있기"),
+	Patrol UMETA(DisplayName = "서성이기"),
+	MovetoPlayer UMETA(DisplayName = "플레이어 쫓기"),
+	Attack UMETA(DisplayName = "공격"),
 };
 
 /**
  * 
  */
+
 UCLASS()
 class TESTPROJECT_API UMyEnum : public UObject
 {
