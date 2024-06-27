@@ -96,30 +96,6 @@
     <ClInclude Include="..\..\Source\TestProject\Global\Animation\GlobalAnimInstance.h">
       <Filter>Source\TestProject\Global\Animation</Filter>
     </ClInclude>
-    <Filter Include="Source\TestProject\Private">
-      <UniqueIdentifier>{EFDAF04E-6849-3C5A-B8C1-2E5CBB20CF2B}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source\TestProject\Private\TPS">
-      <UniqueIdentifier>{B3C524BF-E144-30D3-92B8-850697B70E01}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source\TestProject\Private\TPS\Data">
-      <UniqueIdentifier>{A8D3951B-1FDF-37A1-A0E7-8993AEE30F79}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\TestProject\Private\TPS\Data\MyObject.cpp">
-      <Filter>Source\TestProject\Private\TPS\Data</Filter>
-    </ClCompile>
-    <Filter Include="Source\TestProject\Public">
-      <UniqueIdentifier>{19969EBF-EDAD-3C42-BC3F-7294FDA251EB}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source\TestProject\Public\TPS">
-      <UniqueIdentifier>{E3F8E1E1-A092-3BD9-9E5F-7B1B681A3485}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source\TestProject\Public\TPS\Data">
-      <UniqueIdentifier>{8878FC60-9B85-391E-AACE-F3637759E2F6}</UniqueIdentifier>
-    </Filter>
-    <ClInclude Include="..\..\Source\TestProject\Public\TPS\Data\MyObject.h">
-      <Filter>Source\TestProject\Public\TPS\Data</Filter>
-    </ClInclude>
     <Filter Include="Source\TestProject\SideScroll">
       <UniqueIdentifier>{6D9DBB4E-5512-3D7F-8600-053562E342B0}</UniqueIdentifier>
     </Filter>

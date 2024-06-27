@@ -4,6 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "Global/GlobalCharacter.h"
+#include "Global/MyEnum.h"
+#include "Net/UnrealNetwork.h"
 #include "TPSPlayCharacter.generated.h"
 
 /**
@@ -14,4 +16,10 @@ class TESTPROJECT_API ATPSPlayCharacter : public AGlobalCharacter
 {
 	GENERATED_BODY()
 	
+public:
+
+
+
+private:
+
 };

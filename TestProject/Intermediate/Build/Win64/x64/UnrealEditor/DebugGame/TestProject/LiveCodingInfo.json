@@ -10,7 +10,6 @@
 			"GlobalGameInstance.gen.cpp.obj",
 			"GlobalGameState.gen.cpp.obj",
 			"MyEnum.gen.cpp.obj",
-			"MyObject.gen.cpp.obj",
 			"SideScrollCharacter.gen.cpp.obj",
 			"SideScrollGameMode.gen.cpp.obj",
 			"SideScrollPlayerController.gen.cpp.obj",
@@ -25,10 +24,10 @@
 			"TPSPlayCharacter.gen.cpp.obj",
 			"TPSPlayer.gen.cpp.obj",
 			"TPSPlayerController.gen.cpp.obj",
-			"GlobalAnimInstance.cpp.obj",
 			"GlobalBlueprintFunctionLibrary.cpp.obj",
 			"GlobalCharacter.cpp.obj",
-			"MyEnum.cpp.obj",
+			"GlobalGameInstance.cpp.obj",
+			"GlobalGameState.cpp.obj",
 			"SideScrollCharacter.cpp.obj",
 			"SideScrollGameMode.cpp.obj",
 			"SideScrollPlayerController.cpp.obj",
@@ -43,13 +42,12 @@
 			"TPSPlayer.cpp.obj",
 			"TPSAIController.cpp.obj",
 			"TPSGameMode.cpp.obj",
-			"TPSPlayCharacter.cpp.obj",
 			"TPSPlayerController.cpp.obj",
 			"TestProject.init.gen.cpp.obj",
-			"GlobalGameInstance.cpp.obj",
-			"GlobalGameState.cpp.obj",
-			"MyObject.cpp.obj",
-			"TPSMonsterDataRow.cpp.obj"
+			"GlobalAnimInstance.cpp.obj",
+			"MyEnum.cpp.obj",
+			"TPSMonsterDataRow.cpp.obj",
+			"TPSPlayCharacter.cpp.obj"
 		]
 	}
 }
